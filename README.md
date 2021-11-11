@@ -1,5 +1,5 @@
 # vue-router vuex vue2数据响应式
-
+git
 ## Project setup
 ```
 npm install
