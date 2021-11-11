@@ -1,4 +1,4 @@
-# study-vue
+# vue-router vuex vue2数据响应式
 
 ## Project setup
 ```
